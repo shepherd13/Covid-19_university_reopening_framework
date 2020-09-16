@@ -1,0 +1,92 @@
+Output Directory: Outputs
+Quant Rate: 20
+Vent Rate: 4
+Density: 113.1
+Mask Rate: 1.00
+Mask Efficiency: 0.38
+Mask Rate 2: 1.00
+Mask Efficiency 2: 0.95
+Class Mode: 1
+Professor Mode: 0
+Network: time_user_loc_tensor_.npz
+Courses: course_information.csv
+Other Network: prof_time_user_loc_tensor_.npz
+Upper Limit Offline Class Size: 30
+Asymptomatic Rate: 0.35
+Infectious Death Rate: 0
+Breath Rate: 0.50
+Breath Death Rate: 0.001467193102
+Respirator Rate: 0.20
+Respirator Death Rate: 0.1074819145
+ICU Rate: 0.1408912101
+ICU Death Rate: 0.1074819145
+Infectious Death Rate 2: 0.006
+Hospitalization Rate 0-49: 0.16
+Hospitalization Death Rate 0-49: 0.001
+Hospitalization Rate 50-64: 0.33
+Hospitalization Death Rate 50-64: 0.006
+Hospitalization Rate 65+: 0.40
+Hospitalization Death Rate 65+: 0.032
+Breath Rate 2: 0.50
+Breath Death Rate 2: 0.03578888889
+Respirator Rate 2: 0.20
+Respirator Death Rate 2: 0.3575
+ICU Rate 2: 0.2436111111
+ICU Death Rate 2: 0.3575
+Infectiousness Mean: 6.2
+Mean Decay Length: 72
+Incubation Mean: 5.2
+Incubation Weibull Lambda: 0.11
+Incubation Weibull Alpha: 1.97
+Infectious Mean: 7.8
+Leave Infection Rate: 0.80
+Symptomatic Infection: 1.50
+Symptomatic Quarantine Rate: 1.00
+Hospitalization Median: 7
+Hospitalization Lower Range: 4
+Hospitalization Upper Range: 8
+Breath Median: 8
+Breath Lower Range: 5
+Breath Upper Range: 13
+Respirator Median: 9
+Respirator Lower Range: 8
+Respirator Upper Range: 14
+ICU Alpha Value: 2.791
+ICU Beta Value: 9.963
+ICU Median: 10
+ICU Lower Range: 8
+ICU Upper Range: 17
+Hospitalization Length Mean: 11
+Hospitalization Alpha Value: 2.651
+Hospitalization Beta Value: 3.792
+ICU Length Mean: 8
+Quarantine Type: None
+Quarantine File: None
+Quarantine Percent: 0
+Quarantine Length: 0
+Quarantine Start Day: 0
+Quarantine Object: None
+Tokens Per Person: -1
+Token Policy Length: 3
+Token Policy Start: 1000000
+Token Policy End: 1000000
+Stay Home Compliance 1: 0.00
+Location Max Capacity 1: 1.00
+Policy 1 Start: 1000000
+Stay Home Compliance 2: 0.00
+Location Max Capacity 2: 1.00
+Policy 2 Start: 1000000
+Contact Tracing: 0
+Test Class Fraction: 0.50
+Quarantined Contact Traced: 10
+Outside Transmission Rate: 5
+Test Capacity: 0
+Symptomatic Class Tests Weight: 1
+Asymptomatic Class Tests Weight: 0
+Test Upon Entry: 0
+Test Name: Standard
+False Positive Rate: 0.00
+False Negative Rate: 0.033
+Initial Infected Population: 0.01
+Test Type: 9
+Testing Days Gap: 3

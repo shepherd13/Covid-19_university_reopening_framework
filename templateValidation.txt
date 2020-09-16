@@ -1,0 +1,58 @@
+Output Directory: ProfTest3
+Mask Rate: 0.00
+Mask Efficiency: 0.00
+Vent Rate: 3
+Density: 20
+Network: time_user_loc_tensor_.npz
+Class Mode: 1
+Courses: course_information.csv
+Professor Mode: 1
+Other Network: prof_time_user_loc_tensor_.npz
+Infectiousness Mean: 1
+Infectiousness Shape: 0.25
+Mean Decay Length: 72
+Leave Infection Rate: 0.80
+Symptomatic Infection: 1.50
+Symptomatic Quarantine Rate: 1.00
+Infectious Death Rate: 0.017236
+Asymptomatic Rate: 0.41
+Incubation Mean: 5.2
+Infectious Mean: 7.8
+Hospitalization Rate: 0.2366806
+Hospitalization Median: 7
+Hospitalization Lower Range: 4
+Hospitalization Upper Range: 8
+Hospitalization Death Rate: 0.0350828
+Breath Rate: 0.50
+Breath Median: 8
+Breath Lower Range: 5
+Breath Upper Range: 13
+Breath Death Rate: 0.0350828
+Respirator Rate: 0.20
+Respirator Median: 9
+Respirator Lower Range: 8
+Respirator Upper Range: 14
+Respirator Death Rate: 0.266112
+ICU Rate: 0.1981406
+ICU Median: 10
+ICU Lower Range: 8
+ICU Upper Range: 17
+ICU Death Rate: 0.266112
+Hospitalization Length Mean: 11
+ICU Length Mean: 8
+Quarantine Type: None
+Quarantine File: None
+Quarantine Percent: 0
+Quarantine Length: 0
+Quarantine Start Day: 0
+Quarantine Object: None
+Tokens Per Person: -1
+Token Policy Length: 3
+Token Policy Start: 1000000
+Token Policy End: 1000000
+Stay Home Compliance 1: 0.00
+Location Max Capacity 1: 1.00
+Policy 1 Start: 1000000
+Stay Home Compliance 2: 0.00
+Location Max Capacity 2: 1.00
+Policy 2 Start: 1000000
