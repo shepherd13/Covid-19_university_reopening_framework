@@ -1,5 +1,3 @@
-copyright Dakota Olson, Commercial rights reserved.
-
 main.py:
 	file you need to run
 	line 300 set how many processes you want at a time, 10 is the max on my 6 core 12 thread machine that still allows me to use other applications without lag
